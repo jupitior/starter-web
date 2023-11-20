@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 new ligne1
 ligne2
+=======
+ligne1
+new ligne2
+>>>>>>> realwork
 ligne3
