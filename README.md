@@ -7,5 +7,5 @@ Merge , Reset, quelle: est la question ?
 Une petite réflexion du Git
 
 Allons allons le code est-il bon ?
-
+@Copyright France
 
